@@ -1,9 +1,7 @@
 
 # Advanced LLM Fine-Tuning Framework (QLoRA / LoRA / Full Fine-Tune)
 
-**Author:** Mohammad Kahab  
-**Role:** Machine Learning Engineer  
-**Location:** Malappuram, Kerala, India  
+
 **Version:** 1.0 (March 2026)  
 **Purpose:** Production-grade, single-file, fully customizable fine-tuning script with **auto-preprocessing**, seamless model switching, QLoRA/LoRA/full fine-tuning, high-end optimizations (Flash Attention 2, gradient checkpointing, 4-bit double quant, bf16, long-context support, bi-directional prompt formatting, etc.).
 
